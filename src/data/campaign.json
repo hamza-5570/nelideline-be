@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "61e15c651742909ae5d086af",
+    "totalProducts": 20,
+    "total_available": 20,
+    "total_purchased": 0,
+    "gift_id": 600,
+    "startDate": "2022-0-27 05:00",
+    "endDate": "2022-02-21 05:00"
+  },
+  {
+    "product_id": "61f7d811b9dac0fcba05e193",
+    "totalProducts": 20,
+    "total_available": 20,
+    "total_purchased": 0,
+    "gift_id": 600,
+    "startDate": "2022-0-27 05:00",
+    "endDate": "2022-02-21 05:00"
+  },
+  {
+    "product_id": "61e6b59242fa349222802428",
+    "totalProducts": 20,
+    "total_available": 20,
+    "total_purchased": 0,
+    "gift_id": 600,
+    "startDate": "2022-0-27 05:00",
+    "endDate": "2022-02-21 05:00"
+  },
+  {
+    "product_id": "61f106507353fda5efd1b0eb",
+    "totalProducts": 20,
+    "total_available": 20,
+    "total_purchased": 0,
+    "gift_id": 600,
+    "startDate": "2022-0-27 05:00",
+    "endDate": "2022-02-21 05:00"
+  }
+]
